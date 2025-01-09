@@ -1,0 +1,7 @@
+.html {
+    @apply h-auto overflow-hidden;
+
+    body {
+        @apply min-h-screen h-screen overflow-hidden isolate;
+    }
+}
